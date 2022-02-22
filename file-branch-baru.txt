@@ -8,3 +8,4 @@ TESTER FILE BARU
   * Saham
   * Reksadana
   * Crypto
+- investasi emas
