@@ -5,3 +5,6 @@ TESTER FILE BARU
 - Java
 - Kotlin
 - Membeli laptop rog
+- Belajar coding
+ * Kotlin
+ * Java
