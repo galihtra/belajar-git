@@ -4,7 +4,8 @@ TESTER FILE BARU
 - new account
 - Java
 - Kotlin
-- Membeli laptop rog
-- Belajar coding
- * Kotlin
- * Java
+- investasi bibit
+  * Saham
+  * Reksadana
+  * Crypto
+- investasi emas
