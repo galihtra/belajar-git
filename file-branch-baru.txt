@@ -5,3 +5,7 @@ TESTER FILE BARU
 - Java
 - Kotlin
 - investasi bibit
+  * Saham
+  * Reksadana
+  * Crypto
+- investasi emas
