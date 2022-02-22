@@ -4,3 +4,4 @@ TESTER FILE BARU
 - new account
 - Java
 - Kotlin
+- investasi bibit
